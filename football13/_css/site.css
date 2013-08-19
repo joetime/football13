@@ -1,0 +1,43 @@
+h1, h2, h3, .navbar-brand {
+    font-family: 'Racing Sans One', sans-serif;
+    /*font-family: 'Squada One', sans-serif;*/
+}
+
+td a.teamLink {
+    display: block;
+    font-size: 1.3em;
+    color: darkgreen;
+}
+    td a.teamLink img {
+        margin-right: 5px;
+    }
+
+.li-pick {
+    font-size: 1.5em;
+    margin: 10px 0px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+
+.icon-clickable {
+    opacity: 0.5;
+    cursor:pointer;
+}
+li:hover .icon-clickable {
+    opacity: 0.75;
+}
+li:hover i.icon-clickable:hover {
+        opacity: 1.0;
+    }
+    
+
+
+.team-picked {
+    background-color: green !important;
+}
+    .team-picked a {
+        color: white !important;
+    }

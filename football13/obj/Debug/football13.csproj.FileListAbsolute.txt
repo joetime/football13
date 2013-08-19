@@ -1,0 +1,7 @@
+C:\Users\jscala\GitHub\football13\football13\bin\football13.dll
+C:\Users\jscala\GitHub\football13\football13\bin\football13.pdb
+C:\Users\jscala\GitHub\football13\football13\obj\Debug\football13.csprojResolveAssemblyReference.cache
+C:\Users\jscala\GitHub\football13\football13\obj\Debug\football13.dll
+C:\Users\jscala\GitHub\football13\football13\obj\Debug\football13.pdb
+C:\Users\jscala\GitHub\football13\football13\bin\EntityFramework.dll
+C:\Users\jscala\GitHub\football13\football13\bin\EntityFramework.xml
